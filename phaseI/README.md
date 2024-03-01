@@ -5,12 +5,17 @@
 !!! Describe the general problem that the project is trying to solve !!!
 
 ## Methods
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first research method we worked on was a competitive analysis. The competitors were chosen by aspects like highest on Google searches, consumer opinions on sites like reddit and twitter, and from our own previous experiences with similar products. These factors allowed us to narrow down the top competitors in our field and dissect their strengths and weaknesses. We narrowed down our analysis to around four competitors. These four competitors are rockauto.com, car-parts.com, eBay and Amazon Automotive. Each product was assessed on their strengths, weaknesses, quality level, price/cost and platform availability.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A heuristic evaluation was conducted afterwards focusing on the competitor that most closely matched our product. This competitor ended up being car-part.com as it was focused on junkyard sellers and used parts are similar to what we aim to work on. The heuristic evaluation was based on Jakob Nielsen’s 10 general principles for interaction design. Each member of the team separately used those 10 principles and graded the site on a scale of 1-10 for each factor.  
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!  
+[Competitive Analysis](https://github.com/ChicoState/ux-autoscrap/blob/main/phaseI/CompetitiveAnalysis.pdf)  
+[Heuristic Evaluation 1](https://github.com/ChicoState/ux-autoscrap/files/14465388/HE1.pdf)
+
 
 ## Conclusions
 
