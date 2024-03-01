@@ -8,15 +8,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first research method we worked on was a competitive analysis. The competitors were chosen by aspects like highest on Google searches, consumer opinions on sites like reddit and twitter, and from our own previous experiences with similar products. These factors allowed us to narrow down the top competitors in our field and dissect their strengths and weaknesses. We narrowed down our analysis to around four competitors. These four competitors are rockauto.com, car-parts.com, eBay and Amazon Automotive. Each product was assessed on their strengths, weaknesses, quality level, price/cost and platform availability.  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A heuristic evaluation was conducted afterwards focusing on the competitor that most closely matched our product. This competitor ended up being car-part.com as it was focused on junkyard sellers and used parts are similar to what we aim to work on. The heuristic evaluation was based on Jakob Nielsen’s 10 general principles for interaction design. Each member of the team separately used those 10 principles and graded the site on a scale of 1-10 for each factor.  
-
-
-## Findings
-
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!  
-[Competitive Analysis](https://github.com/ChicoState/ux-autoscrap/blob/main/phaseI/CompetitiveAnalysis.pdf)  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These methods allowed us to form some personas that would try to match our potential customers. They would be the types of demographics that would have some use for our application. We would give them a detailed background as well as lead into scenarios that would showcase how our application could help them.  
+   
+## Findings  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through our competitive analysis, we were able to discern why these competitors were the best when it came to finding automobile parts online. We were able to figure out their relative strengths and areas that we could improve upon. The majority of our demographic seemed to be either hobby enthusiasts or junkyard owners looking to sell.  
+  
+[Competitive Analysis](https://github.com/ChicoState/ux-autoscrap/blob/main/phaseI/CompetitiveAnalysis.pdf)
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through our heuristic evaluation, we were able to gain a very detailed report on various aspects of one of our competitors, car-parts.com. From each of the reports gathered by us, we could see why such a dated site still seemed to be at the top of the market for so long. The site is very ‘to the point’ with its homepage being a detailed search form for car parts. We all agreed that the site works well with what it seeks to accomplish. It does well to keep errors in check when filling out the search form if things are not filled out. It has a detailed help section with even a video guide on how to use the site for those who need it. The real glaring issue with the site is in its actual aesthetic design. It looks like a site made in the early 2000s and barely takes up a ¼ of the screen which could make it harder to read and use. It could be more flexible as well when it comes to searching parts as filling out each criteria could be tiresome.  
+  
 [Heuristic Evaluation 1](https://github.com/ChicoState/ux-autoscrap/files/14465388/HE1.pdf)  
-[Heuristic EValuation 2](https://github.com/ChicoState/ux-autoscrap/files/14466413/AUTOSCRAP.pdf)
-
+[Heuristic Evaluation 2](https://github.com/ChicoState/ux-autoscrap/files/14466413/AUTOSCRAP.pdf)  
+[Heuristic Evaluation 3](https://github.com/ChicoState/ux-autoscrap/files/14466772/HE3.pdf)  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through our personas and scenarios, we were able to glean insights on who could potentially be our customers and why they would use our application. The findings from both the competitive analysis and heuristic evaluation allowed us to form these entities in which we could play out what was missing from those other apps. Customers would be able to easily search for parts as well as request parts if none were available.  
 
 ## Conclusions
 
