@@ -14,7 +14,8 @@
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!  
 [Competitive Analysis](https://github.com/ChicoState/ux-autoscrap/blob/main/phaseI/CompetitiveAnalysis.pdf)  
-[Heuristic Evaluation 1](https://github.com/ChicoState/ux-autoscrap/files/14465388/HE1.pdf)
+[Heuristic Evaluation 1](https://github.com/ChicoState/ux-autoscrap/files/14465388/HE1.pdf)  
+[Heuristic EValuation 2](https://github.com/ChicoState/ux-autoscrap/files/14466413/AUTOSCRAP.pdf)
 
 
 ## Conclusions
