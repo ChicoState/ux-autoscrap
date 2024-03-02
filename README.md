@@ -21,13 +21,13 @@
 
 * **Executive Summary**
 
-          * Competitive analysis showed us there is really only one website that has mostly achieved our goal, their website is severely outdated and lacks any mobile     designs.  We can offer a much more modern form factor and also allow individuals to buy parts via a wanted ad.
-          * Heuristic evaluation of our most direct competitor, car-part.com, shows that we stand to gain a lot of ground when it comes to aesthetics and simplifying the search form.
-          * Although the majority of users of our service will want to see an aesthetically pleasing and functional UI, they will also require a vast database from which they can search from to find the parts they require.
-          * Users will be able to create their own accounts and buyers can save cars they are commonly searching for, preventing the unnecessary reentering of details for each part they search for.
-          * Our development of personas and scenarios allow us to confirm what we saw in our analysis and evaluations, such as:
-                   * Aesthetically pleasing UI as well as easy to use in repetition.
-                   * In order to be a one-stop-shop, users want a vast database of parts to choose from to ensure the best price possible.
+  * Competitive analysis showed us there is really only one website that has mostly achieved our goal, their website is severely outdated and lacks any mobile     designs.  We can offer a much more modern form factor and also allow individuals to buy parts via a wanted ad.
+  * Heuristic evaluation of our most direct competitor, car-part.com, shows that we stand to gain a lot of ground when it comes to aesthetics and simplifying the search form.
+  * Although the majority of users of our service will want to see an aesthetically pleasing and functional UI, they will also require a vast database from which they can search from to find the parts they require.
+  * Users will be able to create their own accounts and buyers can save cars they are commonly searching for, preventing the unnecessary reentering of details for each part they search for.
+  * Our development of personas and scenarios allow us to confirm what we saw in our analysis and evaluations, such as:
+    * Aesthetically pleasing UI as well as easy to use in repetition.
+    * In order to be a one-stop-shop, users want a vast database of parts to choose from to ensure the best price possible.
 
 
 [Full phase I report](phaseI/)
