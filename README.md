@@ -6,7 +6,7 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
 
 * **[Jed Jordan Garcia](https://github.com/ChicoState/ux-personal-portfolio-JedJordan)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Sketches  
 * **[Erik Burgess](https://github.com/ChicoState/ux-personal-portfolio-Cowpriest)** - Project Introduction, Executive Summary
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Alejandro Torres](https://github.com/atorrespena)** - Conclusions, Caveats
 
 # User-Centered Design Artifacts
 
