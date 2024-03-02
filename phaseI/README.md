@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+Autoscrap™ is an app designed to help people who are in need of a car part for the cheapest possible price.  This app will also help those who have parts to sell move inventory with ease and maintain an online listing for any parts they have to sell.  So the users are buyers and sellers alike and will hopefully have their interests met with our app.
 
 ## Methods
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first research method we worked on was a competitive analysis. The competitors were chosen by aspects like highest on Google searches, consumer opinions on sites like reddit and twitter, and from our own previous experiences with similar products. These factors allowed us to narrow down the top competitors in our field and dissect their strengths and weaknesses. We narrowed down our analysis to around four competitors. These four competitors are rockauto.com, car-parts.com, eBay and Amazon Automotive. Each product was assessed on their strengths, weaknesses, quality level, price/cost and platform availability.  
