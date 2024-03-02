@@ -26,8 +26,8 @@
           * Although the majority of users of our service will want to see an aesthetically pleasing and functional UI, they will also require a vast database from which they can search from to find the parts they require.
           * Users will be able to create their own accounts and buyers can save cars they are commonly searching for, preventing the unnecessary reentering of details for each part they search for.
           * Our development of personas and scenarios allow us to confirm what we saw in our analysis and evaluations, such as:
-          * Aesthetically pleasing UI as well as easy to use in repetition.
-          * In order to be a one-stop-shop, users want a vast database of parts to choose from to ensure the best price possible.
+                   * Aesthetically pleasing UI as well as easy to use in repetition.
+                   * In order to be a one-stop-shop, users want a vast database of parts to choose from to ensure the best price possible.
 
 
 [Full phase I report](phaseI/)
