@@ -2,7 +2,7 @@
 
 # Autoscrap
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Autoscrap™ is an app designed to help people who are in need of a car part for the cheapest possible price.  This app will also help those who have parts to sell move inventory with ease and maintain an online listing for any parts they have to sell.  So the users are buyers and sellers alike and will hopefully have their interests met with our app.
 
 ## UX Team Members
 
