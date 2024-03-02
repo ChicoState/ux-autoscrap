@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Autoscrap
 
 Autoscrap™ is an app designed to help people who are in need of a car part for the cheapest possible price.  This app will also help those who have parts to sell move inventory with ease and maintain an online listing for any parts they have to sell.  So the users are buyers and sellers alike and will hopefully have their interests met with our app.
