@@ -44,7 +44,7 @@ Clicking on the button will open up this box over the details where can see the 
 Back on the landing page, the user can click on their username to be taken to their profile page which keeps track of their parts their selling as well as bids for parts they are looking to buy.
 ![Landing (logged in)](https://github.com/ChicoState/ux-autoscrap/assets/111708782/b8f7bb8b-3874-44ed-860f-9bf6a95f89e1)
 
-Here the user can see cursory information on their own listings and bids as well as click on each one to go to their details page. The user can also click on the plus button on the bottom of their listings to create a new listing for a car part. 
+Here the user can see cursory information on previous vehicles they have added, their own listings, and their own bids as well as click on each listing to to see more details. The user can also click on the plus button on the bottom of their listings to create a new listing for a car part. 
 ![Profile Page_](https://github.com/ChicoState/ux-autoscrap/assets/111708782/047cb142-3899-4e6b-ba15-e360d8af62f9)
 
 On this page, the user can fill out the information for the part they are looking to sell as well as add images of that part. Once all the information is all filled out, they can click on the Publish button to be return to their profile page with the new listing added.
