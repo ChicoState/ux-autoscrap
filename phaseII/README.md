@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The previous report left us with a baseline on how we can design our wireframes.  In this sprint, we are more focused on improving the usability of our app to make it easier for those who are not adept in the general use of computers, as well as, improve the experience for repeat users.
 
 ## Methods
 
