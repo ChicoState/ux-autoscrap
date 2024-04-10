@@ -33,14 +33,14 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
 
 * **Executive Summary**
 
-  * Informal Feedback was useful in shedding some light on some issues we would otherwise not see.
-    * Having less buttons can help workflow from the initial search to the results page.
-    * Maximizing the space dedicated to search results is a desirable design.
-  * Cognitive Walkthroughs helped us focus on unforseen factors such as the wellbeing of our users, as well as, valuing their time.
-  * Wireframes help greatly in the visualization of our app and address any missing or misleading features.
-    * Sign up or Sign in feature to minimize the workflow for repeat users.
-    * Search filters that help narrow the search for car parts with as little effort as possible.
-    * Adding an importance to images for the parts and the UI to improve the user's experience.
+  * **Informal Feedback** was useful in shedding some light on some issues we would otherwise not see.
+    * **Having less buttons** can help workflow from the initial search to the results page.
+    * **Maximizing the space dedicated to search results** is a desirable design.
+  * **Cognitive Walkthroughs** helped us focus on unforseen factors such as the wellbeing of our users, as well as, valuing their time.
+  * **Wireframes** help greatly in the visualization of our app and address any missing or misleading features.
+    * Sign up or Sign in feature to **minimize the workflow for repeat users**.
+    * **Search filters** that help narrow the search for car parts with as little effort as possible.
+    * Adding an importance to images for the parts and the UI to **improve the user's experience**.
 
 [Full phase II report](phaseII/)
 
