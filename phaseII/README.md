@@ -1,8 +1,7 @@
 # Phase II: Refining interaction and designing wireframes
 
 ## Introduction
-
-The previous report left us with a baseline on how we can design our wireframes.  In this sprint, we are more focused on improving the usability of our app to make it easier for those who are not adept in the general use of computers, as well as, improve the experience for repeat users.
+Autoscrap™ is an app designed to help people who are in need of a car part for the cheapest possible price. This app will also help those who have parts to sell move inventory with ease and maintain an online listing for any parts they have to sell. So the users are buyers and sellers alike and will hopefully have their interests met with our app. In this sprint, we are more focused on improving the usability of our app to make it easier for those who are not adept in the general use of computers, as well as, improve the experience for repeat users.
 
 ## Methods
 
