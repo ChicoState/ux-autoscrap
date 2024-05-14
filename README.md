@@ -4,9 +4,9 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
 
 ## UX Team Members
 
-* **[Jed Jordan Garcia](https://github.com/ChicoState/ux-personal-portfolio-JedJordan)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Sketches, Wireframes, Prototypes, Protocol  
+* **[Jed Jordan Garcia](https://github.com/ChicoState/ux-personal-portfolio-JedJordan)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Sketches, Wireframes, Prototypes, Protocol, User Testing Moderator  
 * **[Erik Burgess](https://github.com/ChicoState/ux-personal-portfolio-Cowpriest)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Wireframes, Prototypes, Protocol, User Testing Moderator
-* **[Alejandro Torres](https://github.com/ChicoState/ux-personal-portfolio-atorrespena)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Wireframes
+* **[Alejandro Torres](https://github.com/ChicoState/ux-personal-portfolio-atorrespena)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Wireframes, Prototypes, Protocol, User Testing Moderator 
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas/)
