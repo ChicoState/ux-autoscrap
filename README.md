@@ -5,7 +5,7 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
 ## UX Team Members
 
 * **[Jed Jordan Garcia](https://github.com/ChicoState/ux-personal-portfolio-JedJordan)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Sketches, Wireframes, Prototypes, Protocol  
-* **[Erik Burgess](https://github.com/ChicoState/ux-personal-portfolio-Cowpriest)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Wireframes
+* **[Erik Burgess](https://github.com/ChicoState/ux-personal-portfolio-Cowpriest)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Wireframes, Prototypes, Protocol, User Testing Moderator
 * **[Alejandro Torres](https://github.com/ChicoState/ux-personal-portfolio-atorrespena)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Wireframes
 # User-Centered Design Artifacts
 
@@ -46,11 +46,13 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
 
 # Phase III: Prototypes and User Testing
 
-**Executive Summary**
+* **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Prototype** a complete and functional faux website we can use to gather information from user testing.
+  * Once we have the full prototype complete, we spent time fine tuning features to meet our own expectations.
+* **Protocol** designed to assign tasks to our test users to complete using our prototype.
+  * Also designed for test moderators to record any useful feedback from our user testing.
+* **User Testing** allowed us to gain insight on a given user's experience with our website.
+  * The user's feedback proved to be valuable in our effort to improve our final prototype.
 
 [Full phase III report](phaseIII/)
