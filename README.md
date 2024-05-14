@@ -12,7 +12,7 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/tZE0S40Y3TThAxD9VnvzIM/Wireframes-Autoscrap?node-id=0-1&t=6wHM45tTsyOWKfnY-0&scaling=scale-down&starting-point-node-id=8%3A9&show-proto-sidebar=1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
