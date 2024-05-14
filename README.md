@@ -50,7 +50,7 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
 
   * Our **Prototype** is a complete and functional faux website we can use to gather information from user testing.
     * Once we have the full prototype complete, we spent time fine tuning features to meet our own expectations.
-  * Our **Protocol** designed to assign tasks to our test users to complete using our prototype.
+  * Our **Protocol** is designed to assign tasks to our test users to complete using our prototype.
     * Also designed for test moderators to record any useful feedback from our user testing.
   * **User Testing** allowed us to gain insight on a given user's experience with our website.
     * The user's feedback proved to be valuable in our effort to improve our final prototype.
