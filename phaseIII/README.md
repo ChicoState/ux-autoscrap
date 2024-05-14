@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Autoscrap™ is an app designed to help people who are in need of a car part for the cheapest possible price. This app will also help those who have parts to sell move inventory with ease and maintain an online listing for any parts they have to sell. So the users are buyers and sellers alike and will hopefully have their interests met with our app.  In this Phase, we use our prototype as a faux website to test our design on actual users to see how we can improve our final prototype.
 
 ## Methods
 
