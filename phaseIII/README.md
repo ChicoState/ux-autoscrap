@@ -27,7 +27,22 @@ The last part of the Pilot test was a debriefing. We first asked “What did you
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Using our protocol we ran a study using participants from class(n = 7). After transferring the data into a [spreadsheet](https://github.com/ChicoState/ux-autoscrap/files/15302227/AutoScrap.User.Test.Data.pdf) we were able to make quite a few discoveries about our product as well as the prototype's usability.  
+
+Concerning our background questions, we found that 5 of our participants had bought used car parts before. Some had bought in person at a store or junkyard while some bought on online storefronts like eBay. Some concerns they had were clearer photos of the parts and better details on part compatibility. These issues focused on making sure the part in question fits the user’s car.  
+
+For the first task, it seemed that all of the users were able to find the spark plugs with the search bar and filters fairly easily. Many of them filled out all the filters which inadvertently also finished what we wanted from task 3. They were all able to navigate to a details page and make a bid on a car part. Some tried to search without logging in but most logged in first before searching. All users were able to complete this task.  
+
+For the second task, most of the users were able to go to the profile page and find the + button near the bottom of the user’s listing column. The actual process of filling in the listing information and creating the listing was done easily by all. There were some concerns about having a dedicated listing and bids tab instead of a profile page as users associated a profile page with other information. Aside from that, all users were able to complete the task.  
+
+This third task of ours ended up being a bit redundant in its usage. This task’s purpose of using the ‘add vehicle’ feature to narrow searches needed all 5 of the filters to be filled in which most ended up doing for the first task. Filling in the filters and hitting either search or add vehicle went to the same place so that could be something we could change in the future. This overlapped process could have been better worded or just added to the first task. Regardless of that, the task was still completed by all users.  
+
+The fourth task went smoothly for most of the participants. Many of the participants briefly saw their previous bid on the profile page when they went to create a listing for task 2 and as such had an idea of how to complete the task. They were able to check the difference in the current bid to theirs and then place a new higher bid. All of the users were able to complete the task.  
+
+For the debrief section, the most common praise of the product was for the filtering system and how easy the product was to use. The process for searching and bidding was easy for most of the users. The most common improvement that was suggested was separate tabs on the main page for a user’s bids and listings. Having those two things in the profile seemed unintuitive for a good amount of the users. Finally, we had suggestions for new features like user reviews, complete car listings, motorcycle parts, and favorite listings tab.  
+
+Overall, all tasks were completed by all of our users. The majority of the users found the tasks to be fairly easy to complete. Below is a graph that shows the average rating of each task on a scale of 1 to 5:  
+![Task Difficulty Rating (Average)](https://github.com/ChicoState/ux-autoscrap/assets/111708782/c6852b78-94de-42b2-9aca-43eee990a5b3)
 
 ## Conclusions
 
