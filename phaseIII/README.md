@@ -27,7 +27,7 @@ The last part of the Pilot test was a debriefing. We first asked “What did you
 
 ## Findings
 
-Using our protocol we ran a study using participants from class(n = 7). After transferring the data into a [spreadsheet](https://github.com/ChicoState/ux-autoscrap/files/15302227/AutoScrap.User.Test.Data.pdf) we were able to make quite a few discoveries about our product as well as the prototype's usability.  
+Using our protocol we ran a study using participants from class(n = 7). After transferring the data into a [spreadsheet](https://github.com/ChicoState/ux-autoscrap/blob/main/phaseIII/AutoScrap%20User%20Test%20Data.pdf) we were able to make quite a few discoveries about our product as well as the prototype's usability.  
 
 Concerning our background questions, we found that 5 of our participants had bought used car parts before. Some had bought in person at a store or junkyard while some bought on online storefronts like eBay. Some concerns they had were clearer photos of the parts and better details on part compatibility. These issues focused on making sure the part in question fits the user’s car.  
 
