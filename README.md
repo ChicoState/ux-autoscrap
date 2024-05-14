@@ -53,6 +53,8 @@ Autoscrap™ is an app designed to help people who are in need of a car part for
   * Our **Protocol** is designed to assign tasks to our test users to complete using our prototype.
     * Also designed for test moderators to record any useful feedback from our user testing.
   * **User Testing** allowed us to gain insight on a given user's experience with our website.
+    * Both Quantitative and Qualitative data was collected.
     * The user's feedback proved to be valuable in our effort to improve our final prototype.
+    
 
 [Full phase III report](phaseIII/)
